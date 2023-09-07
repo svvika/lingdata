@@ -1,2 +1,2 @@
 # lingdata
-## Sliva Vika FiKL BKL233
+## Sliva Vika ФиКЛ БКЛ233
